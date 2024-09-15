@@ -1,0 +1,101 @@
+{
+  "chutneys": [
+    {
+      "id": 1,
+      "name": "peanut",
+      "title": "Shenga chutney (Peanut)",
+      "type": "powder",
+      "group": "Nutty delight",
+      "image": "",
+      "shortDescription": "",
+      "metadata": {
+        "price": "",
+        "stock": 0,
+        "recommendedWith": [
+          "Crispy dosa",
+          "Fluffy idli",
+          "Fragrant Biriyani",
+          "Whole wheat chapati with ghee"
+        ],
+        "longDescription": "Hailing from Karnataka and South India, Shenga Chutney is a creamy, nutty delight. Made from roasted peanuts ground with garlic, red chilies, and tamarind, this chutney offers a perfect balance of spice and tang. Rich in protein and heart-healthy fats, it's an excellent accompaniment to dosa, idli, or steamed rice.",
+        "shelfLife": 0
+      }
+    },
+    {
+      "id": 2,
+      "name": "putani",
+      "title": "Putani chutney (Roasted gram)",
+      "type": "powder",
+      "group": "Nutty delight",
+      "image": "",
+      "shortDescription": "",
+      "metadata": {
+        "price": "",
+        "stock": 0,
+        "recommendedWith": [
+          "Upma",
+          "Poha",
+          "Spread on sandwiches"
+        ],
+        "longDescription": "A staple in Karnataka and Maharashtra, Putani Chutney showcases the earthy flavors of roasted gram. Blended with coconut and tempered with mustard seeds and curry leaves, it offers a smooth texture with a delightful crunch. High in protein and fiber, it's a nutritious addition to your meal.",
+        "shelfLife": 0
+      }
+    },
+    {
+      "id": 3,
+      "name": "gurellu",
+      "title": "Gurellu chutney (Niger seeds)",
+      "type": "Powder",
+      "group": "Seeds of health",
+      "image": "",
+      "shortDescription": "",
+      "metadata": {
+        "price": "",
+        "stock": 0,
+        "recommendedWith": [
+          "Ragi rotti",
+          "steamed rice",
+          "spread on multigrain bread"
+        ],
+        "longDescription": "A rural favorite in central and southern India, Gurullu Chutney offers a deep, nutty flavor with a hint of bitterness. Packed with essential fatty acids and minerals, it's not just tasty but also beneficial for skin and heart health.",
+        "shelfLife": 0
+      }
+    },
+    {
+      "id": 4,
+      "name": "agasi",
+      "title": "Agasi chutney (Flax seeds)",
+      "type": "powder",
+      "group": "Seeds of health",
+      "image": "",
+      "shortDescription": "",
+      "metadata": {
+        "price": "",
+        "stock": 0,
+        "recommendedWith": [
+          "Whole wheat chapati",
+          "jowar roti",
+          "Mixed with hot rice"
+        ],
+        "longDescription": "Originating from Karnataka and Maharashtra, Agasi Chutney is a powerhouse of nutrition. Made from roasted flaxseeds, it's rich in omega-3 fatty acids and lignans. Its nutty, slightly spicy flavor profile makes it a perfect companion for chapati or mixed with rice.",
+        "shelfLife": 0
+      }
+    },
+    {
+      "id": 5,
+      "name": "",
+      "title": "",
+      "type": "",
+      "group": "",
+      "image": "",
+      "shortDescription": "",
+      "metadata": {
+        "price": "",
+        "stock": 0,
+        "recommendedWith": [],
+        "longDescription": "",
+        "shelfLife": 0
+      }
+    }
+  ]
+}
