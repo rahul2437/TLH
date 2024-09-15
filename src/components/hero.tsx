@@ -1,5 +1,8 @@
 import * as React from "react";
 import Autoplay from "embla-carousel-autoplay";
+import logo from "/logo.svg";
+import putani from "/images/peanut_hero.png";
+import peanut from "/images/putani_hero.png";
 
 import {
   Carousel,
@@ -14,6 +17,8 @@ const Hero = () => {
     Autoplay({ delay: 2000, stopOnInteraction: true })
   );
 
+  const items = [peanut, putani, logo];
+
   return (
     <Carousel
       plugins={[plugin.current]}
@@ -25,13 +30,13 @@ const Hero = () => {
       }}
     >
       <CarouselContent>
-        {Array.from({ length: 5 }).map((_, index) => (
+        {items.map((item, index) => (
           <CarouselItem key={index}>
             <div className="w-full h-[500px] overflow-hidden">
               <img
-                src="https://via.placeholder.com/1500x500" // Placeholder image
+                src={item}
                 alt={`Carousel item ${index}`}
-                className="w-full h-full object-cover"
+                className="w-full h-full object-contain"
               />
             </div>
           </CarouselItem>
