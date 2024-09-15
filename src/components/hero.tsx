@@ -17,7 +17,7 @@ const Hero = () => {
     Autoplay({ delay: 2000, stopOnInteraction: true })
   );
 
-  const items = [peanut, putani, logo];
+  const items = [logo, peanut, putani];
 
   return (
     <Carousel
